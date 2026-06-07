@@ -1,0 +1,7 @@
+flask>=3.0.0
+pycryptodome>=3.20.0
+Pillow>=10.0.0
+scapy>=2.5.0
+exifread>=3.0.0
+requests>=2.31.0
+cryptography>=42.0.0
